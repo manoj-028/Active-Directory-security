@@ -1,0 +1,2 @@
+# Active Directory security
+This project simulates a secure college network environment using Active Directory (AD) configured on Windows Server. It focuses on protecting privileged access and strengthening identity security using Privileged Access Management (PAM) and Multi-Factor Authentication (MFA). The setup includes student and HOD (Head of Department) accounts within organizational units (OUs) to mirror real college departments. Key security tools like Sysmon, Splunk, and Kali Linux are used for real-time monitoring, attack simulation, and proactive threat detection.
